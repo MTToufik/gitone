@@ -1,1 +1,2 @@
-you see some c++ code here.
+you see one console based  c++ project here .
+Project name is Clock. 
